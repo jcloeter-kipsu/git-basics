@@ -14,5 +14,21 @@
         "onion": true,
         "pickles": true
       }
-    }
+    },
+    {
+        "bun": "regular",
+        "cheese": "cheddar news",
+        "patty": "impossible beef",
+        "condiment": {
+          "mayo": true,
+          "ketchup": true,
+          "mustard": false
+        },
+        "toppings": {
+          "lettuce": true,
+          "tomato": true,
+          "onion": true,
+          "pickles": true
+        }
+      }
   ]
