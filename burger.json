@@ -30,5 +30,8 @@
           "onion": true,
           "pickles": true
         }
+      },
+      {
+        "new feature": "this was added on develop"
       }
   ]
