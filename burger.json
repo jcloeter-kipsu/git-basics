@@ -1,0 +1,18 @@
+[
+    {
+      "bun": "regular",
+      "cheese": "MY_CHEESE",
+      "patty": "beef",
+      "condiment": {
+        "mayo": true,
+        "ketchup": true,
+        "mustard": true
+      },
+      "toppings": {
+        "lettuce": true,
+        "tomato": true,
+        "onion": true,
+        "pickles": true
+      }
+    }
+  ]
