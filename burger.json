@@ -1,7 +1,7 @@
 [
     {
       "bun": "regular",
-      "cheese": "MY_CHEESE",
+      "cheese": "OUR_CHEESE",
       "patty": "beef",
       "condiment": {
         "mayo": true,
